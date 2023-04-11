@@ -1,0 +1,45 @@
+Initial - Committing initial codebase or project setup:
+  title: 🎉 Initial Commit
+  id: Initial
+Version Tag - Updating version or release tags:
+  title: 🔖 Tag
+  id: Version Tag
+Feature - Adding new features or functionality:
+  title: ✨ Feat
+  id: Feature
+Bugfix - Fixing bugs or resolving issues:
+  title: 🐛 Fix
+  id: Bugfix
+Security - Addressing security concerns or vulnerabilities:
+  title: 🔒 Security
+  id: Security
+Refactoring - Modifying code for better structure, readability, or performance without changing its external behavior:
+  title: ♻️ Refactor
+  id: Refactoring
+Documentation - Adding or updating documentation files, comments, or inline documentation:
+  title: 📚 Docs
+  id: Documentation
+Accessibility - Improving accessibility features for users with disabilities:
+  title: ♿ Accessibility
+  id: Accessibility
+Performance - Optimizing code or improving performance-related aspects:
+  title: 🐎 Perf
+  id: Performance
+Cosmetic - Making cosmetic changes such as formatting, indentation, or code style:
+  title: 🎨 Style
+  id: Cosmetic
+Tooling - Updating tools, libraries, or dependencies used in the project:
+  title: 🔧 Tool
+  id: Tooling
+Tests - Adding or modifying tests for code coverage or testing purposes:
+  title: 🚨 Test
+  id: Tests
+Deprecation - Marking features or functions as deprecated and scheduled for removal in future versions:
+  title: 💩 Deprecation
+  id: Deprecation
+Removal - Removing deprecated code, files, or features from the codebase:
+  title: 🗑️ Removal
+  id: Removal
+Work In Progress - Committing work-in-progress changes that are not yet complete or ready for production use:
+  title: 🚧 WIP
+  id: Work In Progress

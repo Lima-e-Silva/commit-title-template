@@ -1,0 +1,45 @@
+Inicial - Enviando base de código inicial ou configuração do projeto:
+  title: 🎉 Commit Inicial
+  id: Initial
+Tag de Versão - Atualização de tags de versão ou lançamento:
+  title: 🔖 Tag
+  id: Version Tag
+Funcionalidade - Adicionando novas funcionalidades:
+  title: ✨ Funcionalidade
+  id: Feature
+Correção de Bug - Corrigindo bugs ou resolvendo problemas:
+  title: 🐛 Correção
+  id: Bugfix
+Segurança - Abordando questões ou vulnerabilidades de segurança:
+  title: 🔒 Segurança
+  id: Security
+Refatoração - Modificando o código para uma melhor estrutura, legibilidade ou performance sem alterar seu comportamento externo:
+  title: ♻️ Refatoração
+  id: Refactoring
+Documentação - Adicionando ou atualizando arquivos de documentação, comentários ou documentação inline:
+  title: 📚 Documentação
+  id: Documentation
+Acessibilidade - Melhorando recursos de acessibilidade para usuários com deficiências:
+  title: ♿ Acessibilidade
+  id: Accessibility
+Performance - Otimizando o código ou melhorando aspectos relacionados a performance:
+  title: 🐎 Performance
+  id: Performance
+Cosmético - Realizando mudanças cosméticas, como formatação, indentação ou estilo de código:
+  title: 🎨 Estilo
+  id: Cosmetic
+Ferramentas - Atualizando ferramentas, bibliotecas ou dependências utilizadas no projeto:
+  title: 🔧 Ferramenta
+  id: Tooling
+Testes - Adicionando ou modificando testes para cobertura de código ou para fins de teste:
+  title: 🚨 Testes
+  id: Tests
+Descontinuação - Marcando recursos ou funções como descontinuados e programados para remoção em futuras versões:
+  title: 💩 Descontinuação
+  id: Deprecation
+Remoção - Removendo código descontinuado, arquivos ou recursos da base de código:
+  title: 🗑️ Remoção
+  id: Removal
+Trabalho em Andamento - Enviando mudanças de trabalho em andamento que ainda não estão completas ou prontas para uso em produção:
+  title: 🚧 WIP
+  id: Work In Progress
